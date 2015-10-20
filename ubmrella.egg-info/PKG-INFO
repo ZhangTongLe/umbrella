@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: ubmrella
+Version: 12.0.0.dev23.ge44a8d0
+Summary: OpenStack Monitor and Billing Service
+Home-page: http://www.openstack.org/
+Author: xiongwenwu
+Author-email: xiongwenwu1997@126.com
+License: UNKNOWN
+Description: #python-vim install
+        
+        git clone http://github.com/xww/vimrc
+        
+        cd vimrc
+        
+        ./install.sh
+        
+        
+Platform: UNKNOWN
+Classifier: Environment :: OpenStack
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7

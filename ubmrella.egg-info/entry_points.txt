@@ -1,0 +1,5 @@
+[console_scripts]
+umbrella-collector = umbrella.cmd.collector:main
+umbrella-manage = umbrella.cmd.manage:main
+umbrella-api = umbrella.cmd.api:main
+
